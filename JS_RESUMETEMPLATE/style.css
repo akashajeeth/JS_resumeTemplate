@@ -1,0 +1,25 @@
+body{
+    background-color: #bec0c2;
+}
+.login-page{
+    display: grid;
+    grid-template-columns: 100%;
+    margin: 10% 30%;
+    border: solid black 2px;
+    padding: 8%;
+    border-radius: 5px;
+    background-color:#faf739;
+    
+}
+.login-page input{
+    border: none;
+    border: solid 2px #857e8f;
+    height: 30px;
+}
+.login-page button{
+    width: 80px;
+    margin-left: 40%;
+    padding: 5px;
+    background-color: #05e317;
+    border-radius: 5px;
+}
